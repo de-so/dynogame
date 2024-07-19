@@ -2,8 +2,8 @@ score = 0;
 cross = true;
 newDur = 6;
 
-audio = new Audio('./music/bg.mp3');
-audiogo = new Audio('./music/deathend.mp3');
+audio = new Audio('music/bg.mp3');
+audiogo = new Audio('music/deathend.mp3');
 
 if (true) {
     setTimeout(() => {
