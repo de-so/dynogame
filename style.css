@@ -27,7 +27,7 @@ body{
     left: 25px;
 }
 .obstacle{
-    background-image: url(img/bg.jpg);
+    background-image: url(img/obstacle.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 130px;
